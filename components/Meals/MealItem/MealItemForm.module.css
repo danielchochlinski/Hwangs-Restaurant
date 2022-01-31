@@ -1,0 +1,44 @@
+.form {
+  text-align: right;
+  position: relative;
+  top: 290px;
+  right: 20px;
+}
+
+.form button {
+  font: relative;
+  right: 100px;
+    cursor: pointer;
+  background-color: #8a2b06;
+  border: 1px solid #8a2b06;
+  color: white;
+  padding: 0.25rem 2rem;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.form button:hover,
+.form button:active {
+  background-color: #ff4d07;
+  border-color: #ff4800;
+}
+.price {
+  position: relative;
+  
+  top: 0px;
+  margin-top: 1rem;
+  font-weight: bold;
+  font-size: 1.25rem;
+}
+.price p {
+  position: relative;
+  top: -25px;
+  left: -200px;
+  font-size: 1.75rem;
+}
+.price button {
+  position: relative;
+  top:-85px;
+  left: 0px;
+
+}
