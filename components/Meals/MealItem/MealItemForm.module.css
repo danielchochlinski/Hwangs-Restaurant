@@ -4,6 +4,13 @@
   top: 290px;
   right: 20px;
 }
+.form input {
+   width: 3rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font: inherit;
+  padding-left: 0.5rem;
+}
 
 .form button {
   font: relative;
@@ -42,3 +49,5 @@
   left: 0px;
 
 }
+
+
