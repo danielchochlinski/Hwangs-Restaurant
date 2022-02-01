@@ -40,8 +40,8 @@ const Cart = (props) => {
       }),
     });
      notificationCtx.showNotification({
-       title: "Comment Added",
-       message: "Comment Has Been Added",
+       title: "Successful Order",
+       message: "Order is on its way to you!",
        status: "success",
      });
     setIsSubmitting(false);
